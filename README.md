@@ -69,6 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Documentation:
+
 Create a web page includes: 
 a. A button to support user location acquisition from browser.
 b. A module which allows user to input the name of a location. (Searching feature is triggered by both button click, and press enter key on the keyboard)
