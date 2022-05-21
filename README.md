@@ -80,3 +80,5 @@ d. A table with pagination to show all searched places:
   2. A checkbox at the beginning of each row to allow user to select multiple records at the same time.
   3. A delete button on the top of it to delete all selected records as well as the marker on the map.
 e. Display the time zone and local time of the latest searched location.
+
+accuenergy
